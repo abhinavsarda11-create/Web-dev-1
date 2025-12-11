@@ -1,0 +1,6 @@
+1. Arduino uno
+2. Type D Cable (to connect it to the pc)
+3. n of RFID cards
+4. jumper wire
+5. RFID sensor
+6.
